@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh.I do coding and music in my free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanayyan&label=Profile%20views&color=0e75b6&style=flat" alt="safwanayyan" /> </p>
-
+r<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on [Portfolio(forked)](https://github.com/SafwanAyyan/Portfolio)
 
 - 🌱 I’m currently learning **MERN Stack**
